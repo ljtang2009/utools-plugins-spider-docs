@@ -1,3 +1,10 @@
+## [0.1.1](https://github.com/ljtang2009/utools-plugins-spider-docs/compare/v0.1.0...v0.1.1) (2024-05-07)
+
+
+### Performance Improvements
+
+* :zap: add publish netify ([7fab3fc](https://github.com/ljtang2009/utools-plugins-spider-docs/commit/7fab3fcdfdd5fe20835214f90f7d7a995356e87b))
+
 # [0.1.0](https://github.com/ljtang2009/utools-plugins-spider-docs/compare/v0.0.1...v0.1.0) (2024-05-07)
 
 
